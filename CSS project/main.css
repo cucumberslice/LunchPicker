@@ -8,7 +8,8 @@ body{
 
 h1{
     font-size: 32px;
-    font-family: Palatino, 'Palatino Linotype', serif
+    font-family: Palatino, 'Palatino Linotype', serif;
+    color:rgb(46,105,163)
 }
 
 h2{
